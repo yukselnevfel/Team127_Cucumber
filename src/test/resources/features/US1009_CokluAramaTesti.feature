@@ -16,6 +16,7 @@ Feature: US1009 Kullanici coklu arama yapar
       |samsung          |
       |apple            |
       |nutella          |
+      |bag              |
 
 
     # eger bir eleman degil, birden fazla eleman aratmak istiyorsak

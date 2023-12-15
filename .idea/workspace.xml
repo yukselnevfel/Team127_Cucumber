@@ -5,21 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c2b74c9-1af7-4c70-b564-b722c8890f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/HerokuappStepdefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1013_ExceldenStokKontrolu.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/ParalelRun1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/runners/ParalelRun2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/Hooks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1014_HooksClassKullanimi.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HerokuPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HerokuPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/FacebookStepdefinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/FacebookStepdefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/HerokuappStepdefinitions.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/SaucedemoStepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/SaucedemoStepdefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/TestotomasyonuStepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/TestotomasyonuStepdefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1006_FacebookKayitTesti.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1006_FacebookKayitTesti.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/configuration.properties" beforeDir="false" afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinitions/TestotomasyonuStepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/TestotomasyonuStepdefinitions.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1008_HerokuappAddRemoveTesti.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1008_HerokuappAddRemoveTesti.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1009_CokluAramaTesti.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1009_CokluAramaTesti.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1010_CokluNegatifLoginTesti.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1010_CokluNegatifLoginTesti.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1011_DirekDegerlerleCokluNegatifLoginTesti.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1011_DirekDegerlerleCokluNegatifLoginTesti.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1012_ExcelOlarakVerilenListedenUrunKontrolu.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1012_ExcelOlarakVerilenListedenUrunKontrolu.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,32 +42,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Cucumber Java.Feature: US1001_AramaTesti.executor": "Run",
-    "Cucumber Java.Feature: US1003_BackGroundKullanimi.executor": "Run",
-    "Cucumber Java.Feature: US1006_FacebookKayitTesti.executor": "Run",
-    "Cucumber Java.Feature: US1007_SaucedemoAlisverisTesti.executor": "Run",
-    "Cucumber Java.Feature: US1008_HerokuappAddRemoveTesti.executor": "Run",
-    "Cucumber Java.Scenario: TC01 Kullanici phone aramasinda sonuc bulmali.executor": "Run",
-    "Cucumber Java.Scenario: TC02 Kullanici shoes icin sonuc bulmali.executor": "Run",
-    "Cucumber Java.Scenario: TC03 Kullanici nutella arattiginda sonuc bulamamali.executor": "Run",
-    "Cucumber Java.Scenario: TC05 Kullanici samsung arattiginda sonuc bulamamali.executor": "Run",
-    "Cucumber Java.Scenario: TC12 Feyk bilgilerle facebook'a kayit yapilabilmeli.executor": "Run",
-    "Cucumber Java.Scenario: TC13 sepete dogru urun eklenmeli.executor": "Run",
-    "Cucumber Java.Scenario: TC14 Kullanici add ve delete butonlarinin calistigini test eder.executor": "Run",
-    "JUnit.Runner.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Kullanıcı/IdeaProjects/Team127_Cucumber",
-    "onboarding.tips.debug.path": "C:/Users/Kullanıcı/IdeaProjects/Team127_Cucumber/src/main/java/org/example/Main.java",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Cucumber Java.Feature: US1001_AramaTesti.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: US1003_BackGroundKullanimi.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: US1006_FacebookKayitTesti.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: US1007_SaucedemoAlisverisTesti.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Feature: US1008_HerokuappAddRemoveTesti.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: TC01 Kullanici phone aramasinda sonuc bulmali.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: TC02 Kullanici shoes icin sonuc bulmali.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: TC03 Kullanici nutella arattiginda sonuc bulamamali.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: TC05 Kullanici samsung arattiginda sonuc bulamamali.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: TC12 Feyk bilgilerle facebook'a kayit yapilabilmeli.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: TC13 sepete dogru urun eklenmeli.executor&quot;: &quot;Run&quot;,
+    &quot;Cucumber Java.Scenario: TC14 Kullanici add ve delete butonlarinin calistigini test eder.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Runner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Kullanıcı/IdeaProjects/Team127_Cucumber&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Kullanıcı/IdeaProjects/Team127_Cucumber/src/main/java/org/example/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Kullanıcı\IdeaProjects\Team127_Cucumber" />
