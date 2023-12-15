@@ -1,4 +1,4 @@
-package stepdefinations;
+package stepdefinitions;
 
 import com.github.javafaker.Faker;
 import io.cucumber.java.en.Then;
@@ -8,7 +8,7 @@ import org.openqa.selenium.interactions.Actions;
 import pages.FacebookPage;
 import utilities.Driver;
 
-public class FacebookStepdefinations {
+public class FacebookStepdefinitions {
     FacebookPage facebookPage = new FacebookPage();
 
 

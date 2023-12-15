@@ -5,38 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8c2b74c9-1af7-4c70-b564-b722c8890f14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/configuration.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/FacebookPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/HerokuPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/SaucedemoPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pages/TestOtomasyonuPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/FacebookStepdefinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/HerokuappStepdefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/SaucedemoStepdefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinations/TestotomasyonuStepdefinitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/ConfigReader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/utilities/Driver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1001_AramaTesti.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1002_ParametreIleAramaTesti.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1003_BackGroundKullanimi.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1004_PozitifLoginTesti.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1005_NegatifLoginTesti.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1006_FacebookKayitTesti.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1007_SaucedemoAlisverisTesti.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1008_HerokuappAddRemoveTesti.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1009_CokluAramaTesti.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1010_CokluNegatifLoginTesti.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1011_DirekDegerlerleCokluNegatifLoginTesti.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1012_ExcelOlarakVerilenListedenUrunKontrolu.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/stok.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/HerokuappStepdefinitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/features/US1013_ExceldenStokKontrolu.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/pages/HerokuPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pages/HerokuPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/runners/Runner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/runners/Runner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/FacebookStepdefinations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/FacebookStepdefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/HerokuappStepdefinitions.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/SaucedemoStepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/SaucedemoStepdefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepdefinations/TestotomasyonuStepdefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepdefinitions/TestotomasyonuStepdefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1006_FacebookKayitTesti.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1006_FacebookKayitTesti.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1008_HerokuappAddRemoveTesti.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1008_HerokuappAddRemoveTesti.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1009_CokluAramaTesti.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1009_CokluAramaTesti.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1010_CokluNegatifLoginTesti.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1010_CokluNegatifLoginTesti.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1011_DirekDegerlerleCokluNegatifLoginTesti.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1011_DirekDegerlerleCokluNegatifLoginTesti.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/US1012_ExcelOlarakVerilenListedenUrunKontrolu.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/US1012_ExcelOlarakVerilenListedenUrunKontrolu.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,10 +51,16 @@
   "keyToString": {
     "Cucumber Java.Feature: US1001_AramaTesti.executor": "Run",
     "Cucumber Java.Feature: US1003_BackGroundKullanimi.executor": "Run",
+    "Cucumber Java.Feature: US1006_FacebookKayitTesti.executor": "Run",
+    "Cucumber Java.Feature: US1007_SaucedemoAlisverisTesti.executor": "Run",
+    "Cucumber Java.Feature: US1008_HerokuappAddRemoveTesti.executor": "Run",
+    "Cucumber Java.Scenario: TC01 Kullanici phone aramasinda sonuc bulmali.executor": "Run",
     "Cucumber Java.Scenario: TC02 Kullanici shoes icin sonuc bulmali.executor": "Run",
     "Cucumber Java.Scenario: TC03 Kullanici nutella arattiginda sonuc bulamamali.executor": "Run",
     "Cucumber Java.Scenario: TC05 Kullanici samsung arattiginda sonuc bulamamali.executor": "Run",
     "Cucumber Java.Scenario: TC12 Feyk bilgilerle facebook'a kayit yapilabilmeli.executor": "Run",
+    "Cucumber Java.Scenario: TC13 sepete dogru urun eklenmeli.executor": "Run",
+    "Cucumber Java.Scenario: TC14 Kullanici add ve delete butonlarinin calistigini test eder.executor": "Run",
     "JUnit.Runner.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -97,14 +86,14 @@
     </key>
   </component>
   <component name="RunManager" selected="JUnit.Runner">
-    <configuration name="Feature: US1003_BackGroundKullanimi" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: US1006_FacebookKayitTesti" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1003_BackGroundKullanimi.feature" />
-      <option name="GLUE" value="stepdefinations" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1006_FacebookKayitTesti.feature" />
+      <option name="GLUE" value="stepdefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Team127_Cucumber" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <option name="SUGGESTED_NAME" value="Feature: US1003_BackGroundKullanimi" />
+      <option name="SUGGESTED_NAME" value="Feature: US1006_FacebookKayitTesti" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -116,15 +105,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: TC03 Kullanici nutella arattiginda sonuc bulamamali" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: US1007_SaucedemoAlisverisTesti" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1001_AramaTesti.feature" />
-      <option name="GLUE" value="stepdefinations" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1007_SaucedemoAlisverisTesti.feature" />
+      <option name="GLUE" value="stepdefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Team127_Cucumber" />
-      <option name="NAME_FILTER" value="^TC03 Kullanici nutella arattiginda sonuc bulamamali$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC03 Kullanici nutella arattiginda sonuc bulamamali$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: TC03 Kullanici nutella arattiginda sonuc bulamamali" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: US1007_SaucedemoAlisverisTesti" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -136,15 +124,14 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: TC05 Kullanici samsung arattiginda sonuc bulamamali" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Feature: US1008_HerokuappAddRemoveTesti" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1002_ParametreIleAramaTesti.feature" />
-      <option name="GLUE" value="stepdefinations" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1008_HerokuappAddRemoveTesti.feature" />
+      <option name="GLUE" value="stepdefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Team127_Cucumber" />
-      <option name="NAME_FILTER" value="^TC05 Kullanici samsung arattiginda sonuc bulamamali$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC05 Kullanici samsung arattiginda sonuc bulamamali$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: TC05 Kullanici samsung arattiginda sonuc bulamamali" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: US1008_HerokuappAddRemoveTesti" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -156,15 +143,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: TC12 Feyk bilgilerle facebook'a kayit yapilabilmeli" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: TC14 Kullanici add ve delete butonlarinin calistigini test eder" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1006_FacebookKayitTesti.feature" />
-      <option name="GLUE" value="stepdefinations" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/US1008_HerokuappAddRemoveTesti.feature" />
+      <option name="GLUE" value="stepdefinitions" />
       <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
       <module name="Team127_Cucumber" />
-      <option name="NAME_FILTER" value="^TC12 Feyk bilgilerle facebook\'a kayit yapilabilmeli$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC12 Feyk bilgilerle facebook\'a kayit yapilabilmeli$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: TC12 Feyk bilgilerle facebook'a kayit yapilabilmeli" />
+      <option name="NAME_FILTER" value="^TC14 Kullanici add ve delete butonlarinin calistigini test eder$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^TC14 Kullanici add ve delete butonlarinin calistigini test eder$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: TC14 Kullanici add ve delete butonlarinin calistigini test eder" />
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -194,10 +181,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.Runner" />
-        <item itemvalue="Cucumber Java.Scenario: TC12 Feyk bilgilerle facebook'a kayit yapilabilmeli" />
-        <item itemvalue="Cucumber Java.Feature: US1003_BackGroundKullanimi" />
-        <item itemvalue="Cucumber Java.Scenario: TC05 Kullanici samsung arattiginda sonuc bulamamali" />
-        <item itemvalue="Cucumber Java.Scenario: TC03 Kullanici nutella arattiginda sonuc bulamamali" />
+        <item itemvalue="Cucumber Java.Feature: US1008_HerokuappAddRemoveTesti" />
+        <item itemvalue="Cucumber Java.Scenario: TC14 Kullanici add ve delete butonlarinin calistigini test eder" />
+        <item itemvalue="Cucumber Java.Feature: US1007_SaucedemoAlisverisTesti" />
+        <item itemvalue="Cucumber Java.Feature: US1006_FacebookKayitTesti" />
       </list>
     </recent_temporary>
   </component>

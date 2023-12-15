@@ -8,14 +8,13 @@ import utilities.Driver;
 public class HerokuPage {
     public HerokuPage(){
         PageFactory.initElements(Driver.getDriver(),this);
-
     }
-    @FindBy(xpath = "//*[text()=‘Add Element’]")
+    @FindBy(xpath = "//*[text()='Add Element']")
     public WebElement addElementButonu;
 
-    @FindBy(xpath = "//*[text()=‘Delete’]")
+    @FindBy(xpath = "//*[text()='Delete']")
     public WebElement deleteButonu;
 
-    @FindBy(xpath = "//*[text()=‘Add/Remove Elements’]")
+    @FindBy(xpath = "//*[text()='Add/Remove Elements']")
     public WebElement addRemoveYaziElementi;
 }
